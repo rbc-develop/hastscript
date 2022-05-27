@@ -54,7 +54,7 @@
     "index.js"
   ],
   "dependencies": {
-    "@types/hast": "2.0.0",
+    "@types/hast": "^2.0.0",
     "comma-separated-tokens": "2.0.0",
     "hast-util-parse-selector": "3.0.0",
     "property-information": "6.0.0",
@@ -64,8 +64,8 @@
     "@babel/core": "7.0.0",
     "@babel/plugin-syntax-jsx": "7.0.0",
     "@babel/plugin-transform-react-jsx": "7.0.0",
-    "@types/babel__core": "7.0.0",
-    "@types/tape": "4.0.0",
+    "@types/babel__core": "^7.0.0",
+    "@types/tape": "^4.0.0",
     "acorn": "8.0.0",
     "acorn-jsx": "5.0.0",
     "astring": "1.0.0",
